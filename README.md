@@ -1,3 +1,5 @@
 # Theano
 
-Classification of the MNIST dataset with the logistic regression in Theano
+Classification of the MNIST dataset with the logistic regression in Theano.
+
+Other scripts ...comming soon.
